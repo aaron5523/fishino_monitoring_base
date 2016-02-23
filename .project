@@ -37,6 +37,11 @@
 			<locationURI>fishino_monitoring_baseFlash/Flash</locationURI>
 		</link>
 		<link>
+			<name>RGBTools</name>
+			<type>2</type>
+			<locationURI>fishino_monitoring_baseRGBTools/RGBTools</locationURI>
+		</link>
+		<link>
 			<name>Rtc_by_Makuna</name>
 			<type>2</type>
 			<locationURI>fishino_monitoring_baseRtc_by_Makuna/Rtc_by_Makuna</locationURI>

@@ -34,6 +34,7 @@
  /Users/asettl010/arduino/Fishino/Libs/Fishino/src/FishinoDebug.h \
  /Users/asettl010/arduino/Rtc_by_Makuna/src/RtcDateTime.h \
  /Users/asettl010/arduino/Rtc_by_Makuna/src/RtcDS1307.h \
+ /Users/asettl010/arduino/Arduino-RGB-Tools/RGBTools/RGBTools.h \
  ../fishino_monitoring_base.ino
 
 /Users/asettl010/Downloads/Arduino\ 2.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h:
@@ -105,5 +106,7 @@
 /Users/asettl010/arduino/Rtc_by_Makuna/src/RtcDateTime.h:
 
 /Users/asettl010/arduino/Rtc_by_Makuna/src/RtcDS1307.h:
+
+/Users/asettl010/arduino/Arduino-RGB-Tools/RGBTools/RGBTools.h:
 
 ../fishino_monitoring_base.ino:
